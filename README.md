@@ -7,3 +7,6 @@ Random Password Generator
 <br><br>
 `generateRandomPassword`: Fungsi utama untuk menghasilkan password acak berdasarkan panjang dan karakter yang dipilih.
 <br>
+
+# deploy
+https://fauzi8162.github.io/Random-Password-Generator/
